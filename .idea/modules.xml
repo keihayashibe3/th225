@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/th225app.iml" filepath="$PROJECT_DIR$/.idea/th225app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BottomNav.iml" filepath="$PROJECT_DIR$/.idea/modules/BottomNav.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BottomNav.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BottomNav.app.iml" />
     </modules>
   </component>
 </project>
