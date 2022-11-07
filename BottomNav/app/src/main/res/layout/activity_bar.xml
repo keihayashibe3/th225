@@ -10,10 +10,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Bar"
-        android:textSize="50dp"
+        android:textSize="150dp"
         android:textStyle="bold"
         android:layout_centerInParent="true"
-        android:textColor="@color/black" />
+        android:textColor="color/black" />
 
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:layout_width="match_parent"
